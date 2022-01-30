@@ -12,7 +12,7 @@ Based on the completed analysis, urban cities appear to utilize rideshare servic
 ## Final Summary
 With the largest disparities being seen in urban and rural cities, it could be surmised that the rural communities are being underserved and thus rideshare services are more costly and unaffordable. In urban cities, there is a surplus of drivers to rides needed, suggesting that the rideshare market is somewhat oversaturated in urban cities. 
 
-![FinalSummary](https://github.com/agordon16/PyBer_Analysis/blob/5c46b3495b67d570937fac252b71fb860ca5e7f6/analysis/PyBer_fare_summary.png)
+![FinalSummary](https://github.com/agordon16/PyBer_Analysis/blob/024820bc3e9bc23cb5b07a3cb03047839af3746c/analysis/PyBer_fare_summary.png)
 
 ### Recommendations:
   1.	Redistribute drivers from urban cities to suburban and rural communities to balance out the ratio of rides to drivers.
